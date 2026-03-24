@@ -1,11 +1,9 @@
 # I'm Khadija 👋
 
-```
-🎓 CS Student at FAST-NUCES Lahore (Class of 2027)
-💡 Interested in UI/UX Design and Project Management
-🌱 Currently learning Figma
-📫 Reach me at: khadijaabdulrahim.295@gmail.com
-```
+- 🎓 CS Student at FAST-NUCES Lahore (Class of 2027)
+- 💡 Interested in UI/UX Design and Project Management
+- 🌱 Currently learning Figma
+- 📫 Reach me at: khadijaabdulrahim.295@gmail.com
 
 ## 🛠️ Skills
 - **Languages:** C, C++, Python, HTML, CSS, JS
