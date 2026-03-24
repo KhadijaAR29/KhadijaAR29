@@ -1,16 +1,18 @@
-## Hi there 👋
+# I'm Khadija 👋
 
-<!--
-**KhadijaAR29/KhadijaAR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student at FAST-NUCES Lahore (Class of 2027)
+💡 Interested in UI/UX Design and Project Management
+🌱 Currently learning Figma
+📫 Reach me at: khadijaabdulrahim.295@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** C, C++, Python, HTML, CSS, JS
+- **Tools:** Visual Studio, MS Office, Figma, Canva
+- **Interests:** Human-Computer Interaction, Design Thinking, Project Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🌐 ChildGuard — Awareness website against child labor
+- 🛒 MZ Peckers — Digital trade & inventory system
+- 🔍 Fynder — FYP partner search platform
+- 💊 Online Pharmacy — Website for pharmacy
+- 🕹️ Alphabet Catcher — Console game
